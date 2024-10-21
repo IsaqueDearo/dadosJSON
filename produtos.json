@@ -1,0 +1,26 @@
+[
+    {
+    "nome": "calça jeans",
+    "tamanho": 42,
+    "preco": 139.99,
+    "imagem": "img/teste.jpg"
+    },
+    {
+"nome": "Tênis Feminino",
+"tamanho": 35,
+"preco": 245.00,
+"imagem": "img/teste.jpg"
+    },
+    {
+    "nome": "Camisa Mascolina",
+    "tamanho": 35,
+    "preco": 104.99,
+    "imagem": "img/teste.jpg"
+    },
+    {
+"nome": "calção",
+"tamanho": 38,
+"preco": 55.99,
+"imagem": "img/teste.jpg"
+    },
+]
