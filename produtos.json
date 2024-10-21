@@ -1,26 +1,38 @@
 [
     {
-    "nome": "calça jeans",
-    "tamanho": 42,
-    "preco": 139.99,
-    "imagem": "img/teste.jpg"
+        "nome": "Calça Jeans",
+        "tamanho": G,
+        "preco": 139.99,
+        "imagem": "img/Calça Jeans.webp"
     },
     {
-"nome": "Tênis Feminino",
-"tamanho": 35,
-"preco": 245.00,
-"imagem": "img/teste.jpg"
+        "nome": "Tenis Feminino",
+        "tamanho": M,
+        "preco": 245.00,
+        "imagem": "img/Tenis Feminino.jpg"
     },
     {
-    "nome": "Camisa Mascolina",
-    "tamanho": 35,
-    "preco": 104.99,
-    "imagem": "img/teste.jpg"
+        "nome": "Camisa Basica",
+        "tamanho": M,
+        "preco": 104.99,
+        "imagem": "img/Camisa Basica.webp"
     },
     {
-"nome": "calção",
-"tamanho": 38,
-"preco": 55.99,
-"imagem": "img/teste.jpg"
+        "nome": "Calção",
+        "tamanho": M,
+        "preco": 55.99,
+        "imagem": "img/Calção.jpg"
     },
+    {
+        "nome": "Camisa Regata",
+        "tamanho": G,
+        "preco": 64.99,
+        "imagem": "img/Camisa Regata.jpg"
+    },
+    {
+        "nome": "Bone",
+        "tamanho": P,
+        "preco": 24.99,
+        "imagem": "img/Bone.webp"
+    }
 ]
